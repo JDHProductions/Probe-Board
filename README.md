@@ -12,5 +12,6 @@ This housing uses all the same hardware as the factory probe, they are listed be
 - 4x M2x4 Screws
 - 1x M3x8 Screw
 - 1x Probe Board 
+- 1x 20mm x 10mm x 4mm Magnet with center counter-sunk hole. (N35 is sufficient, N52 is recommended)
 
 _Note: The factory probe uses all self-tapping screws. These are not required to be self-tapping_
