@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=D1 Old Footprint=LED 0805_2012 BLUE New Footprint=LED 0805_2012 BLUE
+Change Physical Footprint: Designator=J1 Old Footprint=JST_S3B-XH-A(LF)(SN) New Footprint=JST_S3B-XH-A(LF)(SN)
+Change Physical Footprint: Designator=R1 Old Footprint=RES 0805_2012 New Footprint=RES 0805_2012
+Change Physical Footprint: Designator=S1 Old Footprint=ZMA00A080P00PC New Footprint=ZMA00A080P00PC
